@@ -1,0 +1,5 @@
+- uv init
+- uv .venv
+- .\venv\Scripts\activate
+- uv pip install mcp[cli]
+- mcp dev server.py
